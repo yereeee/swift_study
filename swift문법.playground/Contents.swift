@@ -11,7 +11,7 @@ var year : Int = 2022
 var y = 2022
 
 year = 2023
-//print(year) //var은 변수라 값 변경가능
+print(year) //var은 변수라 값 변경가능
 
 /*2. 함수만들기*/
 func sum(a: Int, b: Int) -> Int{
@@ -51,12 +51,6 @@ class Operator {
 protocol Flyable {
     func fly()
 }
-
-
-
-
-
-
 
 
 
