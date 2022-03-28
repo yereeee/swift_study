@@ -1,4 +1,4 @@
-### Instagram clone coding
+## Instagram clone coding
 
 #### Login page, Register page
 
@@ -7,7 +7,9 @@
 - 로그인 페이지에서 "계정이 없으신가요? 로그인" 누르며 회원가입 페이지로 넘어가도록 구현
 - 회원가입 페이지에서 UserInfo를 입력, 저장하고 로그인 페이지에서 비교해 맞으며 tapbar화면으로 넘어가도록 구현
 - 로그인, 회원가입 버튼 입력정보 맞으며 색 변하도록 구현
+**********
 
+#### Simulator image
 
 |Login page|Register page|tapbar1|tapbar2|
 |---|---|---|---|
