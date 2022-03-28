@@ -9,7 +9,6 @@
 - 로그인, 회원가입 버튼 입력정보 맞으며 색 변하도록 구현
 
 
-![Simulator Screen Shot - iPhone 13 Pro - 2022-03-28 at 20 22 05](https://user-images.githubusercontent.com/100466546/160390884-6f2d47a3-1f79-4cc3-8de7-809c7093a55d.png)
-![Simulator Screen Shot - iPhone 13 Pro - 2022-03-28 at 20 22 22](https://user-images.githubusercontent.com/100466546/160390902-6a713d2d-bcab-4d05-89b5-45668d02f664.png)
-![Simulator Screen Shot - iPhone 13 Pro - 2022-03-28 at 20 24 57](https://user-images.githubusercontent.com/100466546/160390914-3c55917a-480e-486d-91b1-f08e55a097aa.png)
-![Simulator Screen Shot - iPhone 13 Pro - 2022-03-28 at 20 25 01](https://user-images.githubusercontent.com/100466546/160390926-d7c6a181-6049-418d-bf04-b89a60ba831f.png)
+|Login page|Register page|tapbar1|tapbar2|
+|---|---|---|---|
+|<img src="https://user-images.githubusercontent.com/100466546/160390884-6f2d47a3-1f79-4cc3-8de7-809c7093a55d.png" width="117" height="253.2"/>|<img src="https://user-images.githubusercontent.com/100466546/160390902-6a713d2d-bcab-4d05-89b5-45668d02f664.png" width="117" height="253.2"/>|<img src="https://user-images.githubusercontent.com/100466546/160390914-3c55917a-480e-486d-91b1-f08e55a097aa.png" width="117" height="253.2"/>|<img src="https://user-images.githubusercontent.com/100466546/160390926-d7c6a181-6049-418d-bf04-b89a60ba831f.png" width="117" height="253.2"/>|
